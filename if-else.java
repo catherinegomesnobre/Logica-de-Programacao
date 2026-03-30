@@ -1,4 +1,3 @@
-// Moara Lima Souza e Catherine Gomes
 package catherine;
 
 import java.util.Scanner;
